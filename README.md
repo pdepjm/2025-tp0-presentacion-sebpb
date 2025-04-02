@@ -15,3 +15,6 @@ La música me gusta mucho. Escucharla e interpretarla (guitarra y piano, voz má
 Los jueguitos también me gustan, aunque a veces sean una pérdida de tiempo importante, yo los pongo a la altura de las películas y series. A veces incluso por encima de éstas. Sirven para mantener el coco activo y podés aprender muchas cosas. Salvo que juegues al lol todo el día, de esa me salvé.
 
 (Me interesan muchas cosas, pero en éstas tres áreas es donde más invierto mi tiempo)
+
+## Expectativas de la carrera
+Más que salir con trabajo asegurado (que estaría muy bueno igual), quiero aprender buenas prácticas de programación, cómo funcionan las cosas (física, economía, legislación), cómo delegar y gestionar proyectos y las cosas que se aprenden de rebote y terminan sirviendo. 
